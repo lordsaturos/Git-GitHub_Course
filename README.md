@@ -13,3 +13,4 @@ Actualizado desde githug
 Modificación readme local y subir a github
 
 #### más actualizaciones locales buscnado colisionar ocn cambios en nube github.
+### Otros cambios nuevos desde github
