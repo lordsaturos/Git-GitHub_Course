@@ -11,3 +11,5 @@ Actualizado desde githug
 ### Hola mundo
 
 Modificación readme local y subir a github
+
+#### más actualizaciones locales buscnado colisionar ocn cambios en nube github.
